@@ -16,7 +16,6 @@ The News App leverages several technologies and libraries to enhance performance
 - **Room:** For local database storage, facilitating seamless article saving and retrieval.
 - **Retrofit:** For handling network requests, enabling smooth communication with news APIs.
 - **Glide:** Used for image loading and caching, enhancing performance and optimizing network bandwidth.
-- **Timber:** For logging purposes, aiding in debugging and monitoring application behavior.
 
 ## Installation
 
